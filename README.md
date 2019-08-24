@@ -2,7 +2,7 @@
 
 ## Algorithm
 
-- [C/C++ practice by Eugene](https://github.com/eugene87222/Programming-Practice/tree/master/Algorithm
+- [C/C++ practice by Eugene](https://github.com/eugene87222/Programming-Practice/tree/master/Algorithm)
 
 ## Data structure
 
