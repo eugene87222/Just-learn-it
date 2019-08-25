@@ -5,7 +5,7 @@ by [Eugene](https://github.com/eugene87222) & [Chu Hung Cheng](https://github.co
 ## Algorithm
 
 - [C/C++ practice by Eugene](https://github.com/eugene87222/Programming-Practice/tree/master/Algorithm)
-- [test](./Algorithm/Practice-List.md)
+- [Some algorihtms to practice](./Algorithm/Practice-List.md)
 
 ## Data structure
 

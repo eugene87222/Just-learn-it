@@ -2,7 +2,7 @@
 
 - [prim's minimal spanning tree]()
 - [traveling salesman problem]()
-- [kruskal's minimal spanning tree]
+- [kruskal's minimal spanning tree]()
 - [dijkstra's minimal spanning tree]()
 - [graph / map coloring]()
 - [graph / vertex cover]()
@@ -13,7 +13,7 @@
 - [merge sort]()
 - [quick sort]()
 - [binary search]()
-- [closest pair (point)]()
+- [closest pair (point)](https://github.com/eugene87222/Programming-Practice/tree/master/Algorithm/Closest_pair)
 - [strassen's matrix multiplication]()
 
 ## Dynamic programming
