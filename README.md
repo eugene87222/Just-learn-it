@@ -34,3 +34,5 @@ by [Eugene](https://github.com/eugene87222) & [Chu Hung Cheng](https://github.co
 - [CTF - wiki](https://ctf-wiki.github.io/ctf-wiki/)
 - [我想學資安 從哪裡開始呢](https://www.duckll.tw/2017/11/blog-post.html)
 - [GotYourPW](https://gotyour.pw/)
+
+## NLP
